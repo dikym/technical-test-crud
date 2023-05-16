@@ -1,0 +1,10 @@
+.modal-content,
+.modal-header,
+.modal-body,
+.modal-footer {
+  border: 1px solid #000;
+}
+
+.search-info {
+  font-size: 0.9rem;
+}
